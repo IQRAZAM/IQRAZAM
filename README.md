@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IQRAZAM
-- 👀 I’m interested in programming and learning new stuff.
-- 🌱 I’m currently learning frontend web development.
+- 👀 I’m interested in programming , cybersecurity and exploring new stuff.
+- 🌱 I’m currently exploring different niches starting from web technologies to cybersecurity.Exploring different programming languages , their uses and importance .
 - 💞️ I’m looking to collaborate on diffrent open source projects.
 - 📫 How to reach me ...
 
