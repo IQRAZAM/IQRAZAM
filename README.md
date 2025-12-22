@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 👩💻 About Me  
 
 I'm a **Computer Science student** passionate about building real-world projects and learning modern technologies.  
 I enjoy solving problems, writing clean code, and continuously improving my skills.
